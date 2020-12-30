@@ -1,0 +1,10 @@
+*{ margin: 0; padding: 0; box-sizing: border-box; }
+
+.carousel-inner img {
+	 width: 60%;
+	 height: 100%;
+}
+.aboutimg{
+	width: 60px !important;
+	height: 250px !important;
+}

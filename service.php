@@ -7,6 +7,7 @@
   <!-- <link rel="stylesheet" href="stycle.css" type="text/css"> -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+	 <link rel="stylesheet" type="text/css" href="stylie.css">
  
 </head>
 <body bgcolor="lighblue" align="centre" >

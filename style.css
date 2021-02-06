@@ -8,3 +8,51 @@
 	width: 60px !important;
 	height: 250px !important;
 }
+.menu1 ol{
+	font-weight: bold;
+	list-style: disc;
+    padding: 10px 10px;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+    color: red;
+}
+
+a:active{
+	color: blue;
+}
+
+a:visited{
+	color:green;
+}
+/*.image-source img{
+	width: 80%
+	height:60%;
+	border-radius: 25px;
+	background-color: black;
+
+}*/
+.py-5{
+	background-color:gray;
+	font-weight: bold;
+	border: 10px rgb(190,60,30) solid;
+	margin-left: 25%;
+	margin-right: 25%;
+	border-radius: 10px;
+	margin-bottom: 20px;
+
+}
+.reserve{
+	text-align: center;
+	font-family: arial;
+	font-style: inherit;
+	background-color: skyblue;
+}
+.form-group{
+	background-color: yellow;
+	border-radius: 4px,blue,dotted;
+
+}
